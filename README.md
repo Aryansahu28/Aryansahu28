@@ -155,15 +155,15 @@ LLM Pipelines          setup                                         HTTPS Expos
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aryansahu28&theme=dark&background=0f2027&ring=2c5364&fire=ff6b6b&currStreakLabel=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aryansahu28&theme=dark&background=0f2027&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideLabels=FFA500)](https://git.io/streak-stats)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Aryansahu28&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stat-fawn-rho.vercel.app/api/top-langs/?username=Aryansahu28&layout=compact&bg_color=0f2027&title_color=FFA500&text_color=ffffff&icon_color=FFA500)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
-[![Aryan's GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Aryansahu28&show_icons=true&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Aryan's GitHub Stats](https://github-readme-stat-fawn-rho.vercel.app/api?username=Aryansahu28&show_icons=true&bg_color=0f2027&title_color=FFA500&text_color=ffffff&icon_color=FFA500&ring_color=FFA500)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
