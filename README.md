@@ -1,11 +1,14 @@
-<img width="522" height="271" alt="image" src="https://github.com/user-attachments/assets/028cd46a-7ced-41d8-ab2a-6e3ac1a31911" /><div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Aryan%20Sahu&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Backend%20%26%20Platform%20Engineer%20%7C%20AI%20Systems%20%7C%20DevOps%20%7C%20Cloud%20Native&amp;descAlignY=58&amp;descSize=15&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aryan%20Sahu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20and%20Platform%20Engineer%20or%20AI%20Systems%20or%20DevOps%20or%20Cloud%20Native&descAlignY=58&descSize=15" width="100%"/>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/><br/>
+👋
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-sahu-5b8288266/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahu_aryan28/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aryan78255)
 
 <img src="https://komarev.com/ghpvc/?username=Aryansahu28&style=flat-square&color=2c5364&label=Profile+Views" alt="Profile Views"/>
 
@@ -94,9 +97,10 @@ class AryanSahu:
 </div>
 
 ### 🧠 AI / ML Frameworks
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow (Learning)" width="50" height="50"/>
+</div>
 
 > PyTorch ✅ &nbsp;·&nbsp; TensorFlow 🔜
 
