@@ -1,6 +1,6 @@
 <img width="522" height="271" alt="image" src="https://github.com/user-attachments/assets/028cd46a-7ced-41d8-ab2a-6e3ac1a31911" /><div align="center">
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Aryan%20Sahu&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Backend%20%26%20Platform%20Engineer%20%7C%20AI%20Systems%20%7C%20DevOps%20%7C%20Cloud%20Native&amp;descAlignY=58&amp;descSize=15&amp;animation=fadeIn" width="100%"/>
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/><br/>
 
