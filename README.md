@@ -2,13 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aryan%20Sahu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20and%20Platform%20Engineer%20or%20AI%20Systems%20or%20DevOps%20or%20Cloud%20Native&descAlignY=58&descSize=15" width="100%"/>
 
-👋
 
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60" height="76"/>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-sahu-5b8288266/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahu_aryan28/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aryan78255)
 
 <img src="https://komarev.com/ghpvc/?username=Aryansahu28&style=flat-square&color=2c5364&label=Profile+Views" alt="Profile Views"/>
 
