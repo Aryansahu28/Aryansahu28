@@ -30,7 +30,7 @@ class AryanSahu:
         return {
             "web_dev":      "Full Stack Web Development (HTML → CSS → JS → React → Node)",
             "data_analyst": ["Excel ✅", "SQL ✅", "Power BI 🔜"],
-            "devops":       ["Docker ✅", "Kubernetes KIND → EKS ✅", "AWS ALB + WAF ✅"],
+            
         }
 
     def expertise(self):
