@@ -159,11 +159,11 @@ LLM Pipelines          setup                                         HTTPS Expos
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansahu28&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Aryansahu28&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
-[![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryansahu28&show_icons=true&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Aryan's GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Aryansahu28&show_icons=true&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
