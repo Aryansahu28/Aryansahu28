@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-sahu-5b8288266/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahu_aryan28/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aryan78255)
 
 <img src="https://komarev.com/ghpvc/?username=Aryansahu28&style=flat-square&color=2c5364&label=Profile+Views" alt="Profile Views"/>
 
