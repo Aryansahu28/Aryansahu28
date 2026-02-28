@@ -30,7 +30,7 @@ class AryanSahu:
         return {
             "web_dev":      "Full Stack Web Development (HTML → CSS → JS → React → Node)",
             "data_analyst": ["Excel ✅", "SQL ✅", "Power BI 🔜"],
-            
+            "devops":       ["Docker ✅", "Kubernetes KIND → EKS ✅", "AWS ALB + WAF ✅"],
         }
 
     def expertise(self):
@@ -96,6 +96,14 @@ class AryanSahu:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="50" height="50"/>
 </div>
 
+### 🧠 AI / ML Frameworks
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow (Learning)" width="50" height="50"/>
+</div>
+
+> PyTorch ✅ &nbsp;·&nbsp; TensorFlow 🔜
+
 ### 📊 Data Analytics *(Learning)*
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
@@ -151,11 +159,11 @@ LLM Pipelines          setup                                         HTTPS Expos
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansahu28&layout=compact&theme=vision-friendly-dark&bg_color=0f2027&title_color=ffffff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansahu28&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
-[![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryansahu28&show_icons=true&theme=vision-friendly-dark&bg_color=0f2027&title_color=ffffff&icon_color=4fc3f7&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+[![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryansahu28&show_icons=true&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
